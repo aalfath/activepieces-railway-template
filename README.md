@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/activepieces-6?utm_medium=integration&utm_source=button&utm_campaign=activepieces)
+
 # Activepieces on Railway
 
 A Railway template for [Activepieces](https://www.activepieces.com), the open-source automation tool (an alternative to Zapier and Make) with 600+ integrations, AI agents and MCP servers.
